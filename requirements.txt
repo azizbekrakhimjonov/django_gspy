@@ -1,0 +1,7 @@
+django==4.2
+django-jazzmin==3.0.1
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+google-api-python-client==2.142.0
+requests==2.32.3
+
